@@ -1,0 +1,24 @@
+{
+  "name": "cli-todo",
+  "version": "1.0.0",
+  "description": "A simple CLI Todo application to manage tasks using Node.js. Supports adding, listing, and removing tasks stored in a JSON file.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARYANTYAGI1/CLI-Todo-App.git"
+  },
+  "keywords": [
+    "cli-todo",
+    "node",
+    "node-cli"
+  ],
+  "author": "Aryan Tyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARYANTYAGI1/CLI-Todo-App/issues"
+  },
+  "homepage": "https://github.com/ARYANTYAGI1/CLI-Todo-App#readme"
+}
